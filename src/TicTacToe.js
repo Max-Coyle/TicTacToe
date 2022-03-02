@@ -37,7 +37,7 @@ export default function TicTacToe()
         }
         
         return null;
-      }
+    }
 
     function Square(props)  {      
         
